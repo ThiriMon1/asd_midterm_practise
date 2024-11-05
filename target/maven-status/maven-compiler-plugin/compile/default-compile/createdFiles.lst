@@ -1,0 +1,13 @@
+edu\miu\cse\professor_dep\repository\CourseRepository.class
+edu\miu\cse\professor_dep\service\DepartmentService.class
+edu\miu\cse\professor_dep\model\Course.class
+edu\miu\cse\professor_dep\service\impl\ProfessorServiceImpl.class
+edu\miu\cse\professor_dep\service\ProfessorService.class
+edu\miu\cse\professor_dep\service\impl\CourseServiceImpl.class
+edu\miu\cse\professor_dep\service\impl\DepartmentServiceImpl.class
+edu\miu\cse\professor_dep\ProfessorDepApplication.class
+edu\miu\cse\professor_dep\model\Professor.class
+edu\miu\cse\professor_dep\repository\ProfessorRepository.class
+edu\miu\cse\professor_dep\model\Department.class
+edu\miu\cse\professor_dep\service\CourseService.class
+edu\miu\cse\professor_dep\repository\DepartmentRepository.class

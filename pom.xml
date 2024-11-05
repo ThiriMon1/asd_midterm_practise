@@ -71,7 +71,7 @@
                     <archive>
                         <manifest>
                             <mainClass>
-                                edu.miu.cse.professor_dep
+                                edu.miu.cse.professor_dep.ProfessorDepApplication
                             </mainClass>
                         </manifest>
                     </archive>
